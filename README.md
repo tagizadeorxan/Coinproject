@@ -1,0 +1,2 @@
+# Coinproject
+coins
